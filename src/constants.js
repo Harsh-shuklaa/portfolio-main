@@ -56,7 +56,7 @@ import npmLogo from './assets/work_logo/npm.png';
 import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
+import taskmanagerLogo from './assets/work_logo/task_managerLogo.png';
 import chessLogo from './assets/work_logo/Chess.png'
 import quickNotesLogo from'./assets/work_logo/quickNotesLogo.png'
 
@@ -252,16 +252,16 @@ export const leetcodeStats = {
       github: "https://github.com/Harsh-shuklaa/Notes-App",
       webapp: "https://notes-app-omega-five-26.vercel.app/",
     },
-    // {
-    //   id: 2,
-    //   title: "CS Prep",
-    //   description:
-    //     "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
-    //   image: csprepLogo,
-    //   tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-    //   github: "https://github.com/codingmastr/CSPrep",
-    //   webapp: "https://csprep.netlify.app/",
-    // },
+    {
+      id: 2,
+      title: "Taskify",
+      description:
+        "Task Manager App is a modern productivity web application built using React and Firebase, designed to help users efficiently organize and track their daily tasks. The app supports user authentication, allowing users to securely create accounts and manage their tasks privately .Users can add, edit, delete, and mark tasks as completed, with all data stored in Firebase Firestore for real-time syncing and cloud persistence. The application features a clean and responsive UI for smooth usage across all devices. Additionally, the app integrates AI functionality to enhance productivity by providing features like task suggestions, smart prioritization, and auto-generated task descriptions, helping users plan better and stay consistent. This project demonstrates strong understanding of frontend development, database integration, authentication, and AI-powered automation..",
+      image: taskmanagerLogo,
+      tags: ["React JS", "Firebase Authentication", "Firebase Firestore", "Cloud Deployment", "HTML", "CSS", "JavaScript"],
+      github: "https://github.com/codingmastr/CSPrep",
+      webapp: "https://task-manager-indol-nine-96.vercel.app/",
+    },
     // {
     //   id: 3,
     //   title: "Movie Recommendation App",

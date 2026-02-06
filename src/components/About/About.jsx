@@ -57,7 +57,7 @@ const About = () => {
           </p>
 
           <motion.a
-            href="https://drive.google.com/file/d/1vjqgzg2W7HIpxZVY6dUNvX4ZRcf4WRWD/view?usp=sharing"
+            href="https://drive.google.com/file/d/1pfLi2G6Or2tC2B_K6gnpfprCFp4FZTMQ/view"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full text-lg font-bold transition-transform duration-300 hover:scale-105"

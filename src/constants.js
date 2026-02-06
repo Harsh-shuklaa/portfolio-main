@@ -259,7 +259,7 @@ export const leetcodeStats = {
         "Task Manager App is a modern productivity web application built using React and Firebase, designed to help users efficiently organize and track their daily tasks. The app supports user authentication, allowing users to securely create accounts and manage their tasks privately .Users can add, edit, delete, and mark tasks as completed, with all data stored in Firebase Firestore for real-time syncing and cloud persistence. The application features a clean and responsive UI for smooth usage across all devices. Additionally, the app integrates AI functionality to enhance productivity by providing features like task suggestions, smart prioritization, and auto-generated task descriptions, helping users plan better and stay consistent. This project demonstrates strong understanding of frontend development, database integration, authentication, and AI-powered automation..",
       image: taskmanagerLogo,
       tags: ["React JS", "Firebase Authentication", "Firebase Firestore", "Cloud Deployment", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
+      github: "https://github.com/Harsh-shuklaa/Task-manager",
       webapp: "https://task-manager-indol-nine-96.vercel.app/",
     },
     // {
